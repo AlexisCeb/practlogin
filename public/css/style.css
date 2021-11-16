@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding-top: 10px;
+}
+.contenido{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.login-cont{
+    background: white;
+    width: 30%;
+}
+.modal-backdrop {
+    position:unset !important;
+}
+
+.access{
+    padding-top: 5%;
+    padding-bottom: 2%;
+    font-family: "Agency FB";
+    font-size: 30px;
+    color: white;
+    box-shadow: -5px 10px;
+    font-weight: bolder;
+}
+.access.yes{
+    max-width: 18rem;
+    background-color: #47fc38;
+}
+.access.not{
+    max-width: 18rem;
+    background-color: #fc4646;
+}
+.access.idk{
+    max-width: 18rem;
+    background-color: #5b5b5b;
+}
+
